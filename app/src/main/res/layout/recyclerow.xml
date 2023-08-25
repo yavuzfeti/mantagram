@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/recyclewiew_kullanici"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/kullanici_ana"
+        android:gravity="left|center_vertical"
+        android:text="----kullanıcı adı----"
+        android:textColor="@color/sarı"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/recyclewiew_resim"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/resim_ana"
+        android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/recyclewiew_yorum"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textColor="@color/sarı"
+        android:text="-----yorum satırı------"
+        android:textSize="20sp"
+        android:background="@drawable/yorum_ana"
+        android:gravity="center"
+        android:layout_margin="10dp"/>
+</LinearLayout>

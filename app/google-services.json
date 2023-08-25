@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054043918470",
+    "project_id": "mantagram-ad165",
+    "storage_bucket": "mantagram-ad165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054043918470:android:f032691961007884fbc107",
+        "android_client_info": {
+          "package_name": "com.overthinkers.mantagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054043918470-9g2f6tfog3sgoaem46u233oat2s0dt88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmkrmR47blAZ_JOKWwpto7zmmicg7CKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054043918470-9g2f6tfog3sgoaem46u233oat2s0dt88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
